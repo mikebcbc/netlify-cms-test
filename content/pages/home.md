@@ -9,6 +9,3 @@ lists:
   - description: This is a 3rd test description.
     name: Test Name 3
 ---
-Welcome to this beautiful test page.
-
-This page is built with NextJS, and content is managed in Netlify CMS.
